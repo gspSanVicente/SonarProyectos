@@ -1,0 +1,6 @@
+projectKey=tres
+serverUrl=http://127.0.0.1:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=tres
+ceTaskId=AYXXNI4yQ8FbH0sNTwpt
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYXXNI4yQ8FbH0sNTwpt
